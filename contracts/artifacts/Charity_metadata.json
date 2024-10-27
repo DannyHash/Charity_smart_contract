@@ -520,11 +520,11 @@
 			]
 		},
 		"contracts/Charity.sol": {
-			"keccak256": "0xcc0a727888f37acfda5b087ec3a5d6ee1e76bb4f906e5d5f4af35f9b6536ce39",
+			"keccak256": "0x0529b06281bec427fa92188407f3254a8d1625d1528724137fbddbf9b2c91f82",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://0d75a5da6b085eca760309efd7fe6a56f8e6dc6f6b830e855e1a30ff637d8c55",
-				"dweb:/ipfs/QmeLCg54P52NtNMbZHWXemLHNKrurYa2bYfWf8JZDkAiUr"
+				"bzz-raw://2b3a61d87512d4e47d870280490d909404e1ba43c69b9e41b7b1f99351264617",
+				"dweb:/ipfs/Qma5PYn4NL17MfxF1uph2WQESspH1VkBZLXnGurNw6Dz1d"
 			]
 		}
 	},

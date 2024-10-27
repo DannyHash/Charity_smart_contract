@@ -58,7 +58,7 @@ contract Charity is Ownable {
         require(msg.value <= maxDonation, "Donation is above the maximum limit");
 
         // Create acknowledgment message
-        string memory acknowledgment = string(abi.encodePacked("Thank you for your donation of", uint2str(msg.value), "wei for the purpose:", purpose));
+        string memory acknowledgment = string(abi.encodePacked("Thank you for your donation of ", uint2str(msg.value), "wei for the purpose: ", purpose));
 
         donations.push(Donation({
             donor: msg.sender,
