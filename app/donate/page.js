@@ -58,9 +58,6 @@ export default function Donate() {
       console.error("Donation failed:", error);
       alert("Failed to donate. Please try again.");
     }
-
-    console.log("Purpose:", purpose);
-    console.log("Amount:", amount);
   };
 
   return (
