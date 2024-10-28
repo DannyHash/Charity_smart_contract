@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Web3 from "web3";
-import charityContractABI from "../donate/charityContractABI";
+import charityContractABI from "../donate/charityContractABI.json";
 
 export default function Donate() {
   const [purpose, setPurpose] = useState("");
